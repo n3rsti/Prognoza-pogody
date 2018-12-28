@@ -11,7 +11,7 @@ wind = req["wind"]["speed"]
 city = req["name"]
 
 plik = open("Pogoda.txt", "w")
-plik.write("Dnia " + time.strftime("%Y-%m-%d", time.localtime()) + " w mieście " + city + " temperatura wynosi " + str(temp) + ", a wiatr wieje z prędkością " + str(wind) + ".")
+plik.write("Dnia " + time.strftime("%Y-%m-%d", time.localtime()) + " w mieście " + city + " temperatura wynosi " + str(temp) + " stopni Fahrenheita, a wiatr wieje z prędkością " + str(wind) + " m/s .")
 plik.close()
 
 print("Wykonano")

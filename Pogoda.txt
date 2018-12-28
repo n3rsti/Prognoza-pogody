@@ -1,1 +1,1 @@
-Dnia 2018-12-28 w mieœcie Bydgoszcz temperatura wynosi 280.15, a wiatr wieje z prêdkoœci¹ 6.7.
+Dnia 2018-12-28 w mieœcie Bydgoszcz temperatura wynosi 280.15 stopni Fahrenheita, a wiatr wieje z prêdkoœci¹ 6.7 m/s .
